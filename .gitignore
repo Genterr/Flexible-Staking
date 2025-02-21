@@ -1,0 +1,26 @@
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Build Output
+target/
+dist/
+build/
+
+# Dependencies
+node_modules/
+
+# IDE Files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Solana / Anchor
+test-ledger/
+.anchor/
